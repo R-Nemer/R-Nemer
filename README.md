@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://lb.linkedin.com/in/ramy-nemer/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/ramy.nemer/" title="Facebook Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"> Facebook</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/R-Nemer/R-Nemer/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/ramynemer/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/R-Nemer/R-Nemer/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -42,7 +42,7 @@
   <code><img title="AngularJS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
   <code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code><br>
-    <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
